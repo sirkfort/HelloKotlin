@@ -17,7 +17,7 @@ fun main() {
 //    println(interestingThings.size)
 //    println(interestingThings[0])
 //    println(interestingThings.get(0))
-    println()
+//    println()
 //    interestingThings.forEach {  interestingThing ->
 //        println(interestingThing)
 //    }
